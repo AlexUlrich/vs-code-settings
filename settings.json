@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-seti",
+    "editor.trimAutoWhitespace": true,
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "editor.cursorStyle": "underline-thin",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": true
+}
