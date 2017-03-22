@@ -5,7 +5,7 @@
     "editor.trimAutoWhitespace": true,
     "editor.renderWhitespace": "boundary",
     "files.trimTrailingWhitespace": true,
-    "editor.cursorStyle": "underline-thin",
+    "editor.cursorStyle": "line-thin",
     "editor.wordWrap": "on",
     "editor.minimap.enabled": true
 }
