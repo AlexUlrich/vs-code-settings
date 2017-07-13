@@ -7,5 +7,6 @@
     "files.trimTrailingWhitespace": true,
     "editor.cursorStyle": "underline-thin",
     "editor.wordWrap": "on",
-    "editor.minimap.enabled": true
+    "editor.minimap.enabled": true,
+    "editor.tabSize": 2
 }
