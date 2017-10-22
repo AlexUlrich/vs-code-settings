@@ -8,5 +8,6 @@
     "editor.cursorStyle": "line-thin",
     "editor.wordWrap": "on",
     "editor.minimap.enabled": true,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "telemetry.enableTelemetry": false
 }
