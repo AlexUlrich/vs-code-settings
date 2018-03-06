@@ -1,13 +1,14 @@
+// Place your settings in this file to overwrite the default settings
 {
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Monokai",
-    "workbench.iconTheme": "vs-seti",
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.trimAutoWhitespace": true,
-    "editor.renderWhitespace": "boundary",
+    "editor.renderWhitespace": "all",
     "files.trimTrailingWhitespace": true,
     "editor.cursorStyle": "line-thin",
     "editor.wordWrap": "on",
     "editor.minimap.enabled": true,
     "editor.tabSize": 2,
-    "telemetry.enableTelemetry": false
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe"
 }
