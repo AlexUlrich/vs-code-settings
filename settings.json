@@ -10,5 +10,6 @@
     "editor.wordWrap": "on",
     "editor.minimap.enabled": true,
     "editor.tabSize": 2,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe"
+    "files.autoSave": "afterDelay",
+    "editor.wordWrapColumn": 100,
 }
