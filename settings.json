@@ -12,4 +12,5 @@
     "editor.tabSize": 2,
     "files.autoSave": "afterDelay",
     "editor.wordWrapColumn": 100,
+    "editor.fontFamily": "Hack,Consolas, 'Courier New', monospace"
 }
